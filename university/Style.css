@@ -1,0 +1,15 @@
+body{
+    justify-items: center;
+    background-color: rgb(243, 163, 243);
+}
+input{
+    height: 30px;
+    border-radius: 5%;
+    border: 1px solid lightgray;
+}
+button{
+    height: 30px;
+    border-radius: 5%;
+    border: 1px solid lightgray;
+    
+}
